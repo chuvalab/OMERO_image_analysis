@@ -3,9 +3,10 @@
 
 Here are the steps one needs to follow: 
 1. Open microscope...
-2. Load to OMERO...
-3. Use scripts fro Rumer here:
-4. You this is how the menu looks like:
+* 
+3. Load to OMERO...
+4. Use scripts fro Rumer here:
+5. You this is how the menu looks like:
 
 
 ![random image](https://github.com/chuvalab/OMERO_image_analysis/blob/main/images/Screenshot_cell_gene_54_99.png)

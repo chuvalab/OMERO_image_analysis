@@ -9,3 +9,5 @@ Here are the steps one needs to follow:
 
 
 ![random image](https://github.com/chuvalab/OMERO_image_analysis/blob/main/images/Screenshot_cell_gene_54_99.png)
+
+![random image 2](https://github.com/chuvalab/OMERO_image_analysis/blob/main/images/Picture1.jpg)
